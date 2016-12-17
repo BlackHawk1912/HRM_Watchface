@@ -1,0 +1,111 @@
+{
+    "author": "BlackHawk1912",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebblehrmclock",
+    "pebble": {
+        "displayName": "PebbleHRMClock",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/bluetooth.png",
+                    "name": "IMAGE_BT_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/icon.png",
+                    "menuIcon": true,
+                    "name": "app_icon",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/peak_9.png",
+                    "name": "IMAGE_PEAK_9",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/peak_8.png",
+                    "name": "IMAGE_PEAK_8",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/peak_7.png",
+                    "name": "IMAGE_PEAK_7",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/peak_6.png",
+                    "name": "IMAGE_PEAK_6",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/peak_4.png",
+                    "name": "IMAGE_PEAK_4",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/peak_3.png",
+                    "name": "IMAGE_PEAK_3",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/peak_2.png",
+                    "name": "IMAGE_PEAK_2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/peak_1.png",
+                    "name": "IMAGE_PEAK_1",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/peak_0.png",
+                    "name": "IMAGE_PEAK_0",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/peak_5.png",
+                    "name": "IMAGE_PEAK_5",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bg_hrm.png",
+                    "name": "hrm_bg",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "characterRegex": "[0-9%-]",
+                    "file": "fonts/DigitalGraphicLabs.html",
+                    "name": "FONT_HP_15",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "5b882230-2d3c-4c55-826f-2cd5a00f7f91",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}
